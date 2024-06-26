@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development 
 - 🌱 I’m currently learning Data Structures and Algorithms in JAVA and Web Development
 
-- 📫 How to reach me ...
+  
 - 😄 Pronouns: ...she/her
   
 
